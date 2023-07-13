@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author crizt
+ * @author crizt Martinex
  */
 public class TareaLibreria {
 
